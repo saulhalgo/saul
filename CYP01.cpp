@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// UN COMENTARIO DESDE GIT HUB XDXD
 int main()
 {
     int ancho;
